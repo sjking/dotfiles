@@ -8,5 +8,5 @@ Install dotfiles for MacOS. Intended for Haskell development in MacVim.
 
 Install plugins in vim by running `:PlugInstall` in command mode.
 
-Vim configuration adapted from [begriffs/haskell-vim-now].
+Vim configuration adapted from (begriffs/haskell-vim-now)[begriffs/haskell-vim-now].
 
